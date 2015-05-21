@@ -1,0 +1,21 @@
+{
+  "name": "united-states",
+  "description": "Module that returns an object of United States states names and abbreviations.",
+  "version": "1.0.0",
+  "keywords": [
+    "united",
+    "states",
+    "list"
+  ],
+  "author": {
+    "name": "Jack Moore",
+    "url": "http://www.jacklmoore.com",
+    "email": "hello@jacklmoore.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jackmoore/united-states.git"
+  }
+}
