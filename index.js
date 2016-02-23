@@ -1,206 +1,282 @@
 module.exports = [
   {
     "abbr": "AL",
-    "name": "Alabama"
+    "name": "Alabama",
+    "isTerritory": false
   },
   {
     "abbr": "AK",
-    "name": "Alaska"
+    "name": "Alaska",
+    "isTerritory": false
+  },
+  {
+    "abbr": "AS",
+    "name": "American Samoa",
+    "isTerritory": true
   },
   {
     "abbr": "AZ",
-    "name": "Arizona"
+    "name": "Arizona",
+    "isTerritory": false
   },
   {
     "abbr": "AR",
-    "name": "Arkansas"
+    "name": "Arkansas",
+    "isTerritory": false
   },
   {
     "abbr": "CA",
-    "name": "California"
+    "name": "California",
+    "isTerritory": false
   },
   {
     "abbr": "CO",
-    "name": "Colorado"
+    "name": "Colorado",
+    "isTerritory": false
   },
   {
     "abbr": "CT",
-    "name": "Connecticut"
+    "name": "Connecticut",
+    "isTerritory": false
   },
   {
     "abbr": "DE",
-    "name": "Delaware"
+    "name": "Delaware",
+    "isTerritory": false
   },
   {
     "abbr": "DC",
-    "name": "District Of Columbia"
+    "name": "District Of Columbia",
+    "isTerritory": false
   },
   {
     "abbr": "FL",
-    "name": "Florida"
+    "name": "Florida",
+    "isTerritory": false
   },
   {
     "abbr": "GA",
-    "name": "Georgia"
+    "name": "Georgia",
+    "isTerritory": false
+  },
+  {
+    "abbr": "GU",
+    "name": "Guam",
+    "isTerritory": true
   },
   {
     "abbr": "HI",
-    "name": "Hawaii"
+    "name": "Hawaii",
+    "isTerritory": false
   },
   {
     "abbr": "ID",
-    "name": "Idaho"
+    "name": "Idaho",
+    "isTerritory": false
   },
   {
     "abbr": "IL",
-    "name": "Illinois"
+    "name": "Illinois",
+    "isTerritory": false
   },
   {
     "abbr": "IN",
-    "name": "Indiana"
+    "name": "Indiana",
+    "isTerritory": false
   },
   {
     "abbr": "IA",
-    "name": "Iowa"
+    "name": "Iowa",
+    "isTerritory": false
   },
   {
     "abbr": "KS",
-    "name": "Kansas"
+    "name": "Kansas",
+    "isTerritory": false
   },
   {
     "abbr": "KY",
-    "name": "Kentucky"
+    "name": "Kentucky",
+    "isTerritory": false
   },
   {
     "abbr": "LA",
-    "name": "Louisiana"
+    "name": "Louisiana",
+    "isTerritory": false
   },
   {
     "abbr": "ME",
-    "name": "Maine"
+    "name": "Maine",
+    "isTerritory": false
   },
   {
     "abbr": "MD",
-    "name": "Maryland"
+    "name": "Maryland",
+    "isTerritory": false
   },
   {
     "abbr": "MA",
-    "name": "Massachusetts"
+    "name": "Massachusetts",
+    "isTerritory": false
   },
   {
     "abbr": "MI",
-    "name": "Michigan"
+    "name": "Michigan",
+    "isTerritory": false
   },
   {
     "abbr": "MN",
-    "name": "Minnesota"
+    "name": "Minnesota",
+    "isTerritory": false
   },
   {
     "abbr": "MS",
-    "name": "Mississippi"
+    "name": "Mississippi",
+    "isTerritory": false
   },
   {
     "abbr": "MO",
-    "name": "Missouri"
+    "name": "Missouri",
+    "isTerritory": false
   },
   {
     "abbr": "MT",
-    "name": "Montana"
+    "name": "Montana",
+    "isTerritory": false
   },
   {
     "abbr": "NE",
-    "name": "Nebraska"
+    "name": "Nebraska",
+    "isTerritory": false
   },
   {
     "abbr": "NV",
-    "name": "Nevada"
+    "name": "Nevada",
+    "isTerritory": false
   },
   {
     "abbr": "NH",
-    "name": "New Hampshire"
+    "name": "New Hampshire",
+    "isTerritory": false
   },
   {
     "abbr": "NJ",
-    "name": "New Jersey"
+    "name": "New Jersey",
+    "isTerritory": false
   },
   {
     "abbr": "NM",
-    "name": "New Mexico"
+    "name": "New Mexico",
+    "isTerritory": false
   },
   {
     "abbr": "NY",
-    "name": "New York"
+    "name": "New York",
+    "isTerritory": false
   },
   {
     "abbr": "NC",
-    "name": "North Carolina"
+    "name": "North Carolina",
+    "isTerritory": false
   },
   {
     "abbr": "ND",
-    "name": "North Dakota"
+    "name": "North Dakota",
+    "isTerritory": false
+  },
+  {
+    "abbr": "MP",
+    "name": "Northern Mariana Islands",
+    "isTerritory": true
   },
   {
     "abbr": "OH",
-    "name": "Ohio"
+    "name": "Ohio",
+    "isTerritory": false
   },
   {
     "abbr": "OK",
-    "name": "Oklahoma"
+    "name": "Oklahoma",
+    "isTerritory": false
   },
   {
     "abbr": "OR",
-    "name": "Oregon"
+    "name": "Oregon",
+    "isTerritory": false
   },
   {
     "abbr": "PA",
-    "name": "Pennsylvania"
+    "name": "Pennsylvania",
+    "isTerritory": false
+  },
+  {
+    "abbr": "PR",
+    "name": "Puerto Rico",
+    "isTerritory": true
   },
   {
     "abbr": "RI",
-    "name": "Rhode Island"
+    "name": "Rhode Island",
+    "isTerritory": false
   },
   {
     "abbr": "SC",
-    "name": "South Carolina"
+    "name": "South Carolina",
+    "isTerritory": false
   },
   {
     "abbr": "SD",
-    "name": "South Dakota"
+    "name": "South Dakota",
+    "isTerritory": false
   },
   {
     "abbr": "TN",
-    "name": "Tennessee"
+    "name": "Tennessee",
+    "isTerritory": false
   },
   {
     "abbr": "TX",
-    "name": "Texas"
+    "name": "Texas",
+    "isTerritory": false
   },
   {
     "abbr": "UT",
-    "name": "Utah"
+    "name": "Utah",
+    "isTerritory": false
   },
   {
     "abbr": "VT",
-    "name": "Vermont"
+    "name": "Vermont",
+    "isTerritory": false
+  },
+  {
+    "abbr": "VI",
+    "name": "Virgin Islands",
+    "isTerritory": true
   },
   {
     "abbr": "VA",
-    "name": "Virginia"
+    "name": "Virginia",
+    "isTerritory": false
   },
   {
     "abbr": "WA",
-    "name": "Washington"
+    "name": "Washington",
+    "isTerritory": false
   },
   {
     "abbr": "WV",
-    "name": "West Virginia"
+    "name": "West Virginia",
+    "isTerritory": false
   },
   {
     "abbr": "WI",
-    "name": "Wisconsin"
+    "name": "Wisconsin",
+    "isTerritory": false
   },
   {
     "abbr": "WY",
-    "name": "Wyoming"
+    "name": "Wyoming",
+    "isTerritory": false
   }
 ];
