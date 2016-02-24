@@ -1,7 +1,7 @@
 {
   "name": "united-states",
-  "description": "Module that returns an object of United States states names and abbreviations.",
-  "version": "1.0.0",
+  "description": "Module that returns an array of United States states names and abbreviations.",
+  "version": "2.0.0",
   "keywords": [
     "united",
     "states",
