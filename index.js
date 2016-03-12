@@ -46,7 +46,7 @@ module.exports = [
   },
   {
     "abbr": "DC",
-    "name": "District Of Columbia",
+    "name": "District of Columbia",
     "isTerritory": false
   },
   {
